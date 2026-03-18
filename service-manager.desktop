@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Service Manager
+GenericName=Systemd Service Manager
+Comment=Monitor and control systemd services with a user-friendly GUI
+Exec=/home/heker/Test/run_service_manager.sh
+Icon=utilities-terminal
+Terminal=false
+Categories=System;Settings;HardwareSettings;
+Keywords=systemd;service;manager;daemon;process;system;
+StartupNotify=true
+StartupWMClass=service_manager
