@@ -24,6 +24,8 @@ A GTK3-based GUI application for monitoring and controlling systemd services on 
 
 ![Service Manager Screenshot](screenshots/main.png)
 
+![Frontend](image/frontend.png)
+
 ## Requirements
 
 - Ubuntu 18.04+ or any Linux distribution with systemd
